@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutsExtra1</string>
+    <string name="titulo">Título Centrado</string>
+    <string name="nombre">Nombre del Usuario</string>
+    <string name="descripcion">Descripción del estado del usuario que ocupa 2-3 líneas completas</string>
+    <string name="verPerfil">Ver Perfil</string>
+    <string name="cargarInfo">Cargar Info</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="localizame">Localízame!</string>
+    <string name="texto">Esto es un ejemplo de texto largo encapsulado en un TextView</string>
+</resources>
